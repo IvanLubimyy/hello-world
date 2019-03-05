@@ -1,2 +1,3 @@
 # hello-world
-It's same training repository
+It's some training repository
+Это тестовый ознакомительный файл
